@@ -1,0 +1,8 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="业务活动 (转账)"
+    id="d837b305-8818-4d00-a186-df10c09e2313">
+  <properties
+      key="Stereotype"
+      value="业务活动"/>
+</archimate:BusinessFunction>

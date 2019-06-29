@@ -1,0 +1,8 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="任务 (签订服务协议)"
+    id="a2c570d9-e8c8-4577-a97d-c58be1c6c839">
+  <properties
+      key="Stereotype"
+      value="任务"/>
+</archimate:BusinessFunction>

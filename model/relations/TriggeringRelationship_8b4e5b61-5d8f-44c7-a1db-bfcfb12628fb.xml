@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="是否签订存款产品协议"
+    id="8b4e5b61-5d8f-44c7-a1db-bfcfb12628fb">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_0ff87e00-c270-4970-9127-7aa3bbc384bf.xml#0ff87e00-c270-4970-9127-7aa3bbc384bf"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_6a7f8704-d88d-46b4-80a3-9b4720168307.xml#6a7f8704-d88d-46b4-80a3-9b4720168307"/>
+</archimate:TriggeringRelationship>

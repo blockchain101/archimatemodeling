@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="是否存入资金"
+    id="9446b296-3043-4e53-881e-4385db8777a7">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_c7fb7ed8-10b0-4a68-8b3b-73365e2e2117.xml#c7fb7ed8-10b0-4a68-8b3b-73365e2e2117"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_768d6fc6-6d85-4f67-a4c6-b2577c948f5f.xml#768d6fc6-6d85-4f67-a4c6-b2577c948f5f"/>
+</archimate:TriggeringRelationship>

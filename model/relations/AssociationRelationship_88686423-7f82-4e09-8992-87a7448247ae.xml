@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1对1识别API"
+    id="88686423-7f82-4e09-8992-87a7448247ae">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_6294f877-b16f-442e-870c-cc297a184cc3.xml#6294f877-b16f-442e-870c-cc297a184cc3"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_911e9e46-cce4-4b9f-91ef-cadbf52730e5.xml#911e9e46-cce4-4b9f-91ef-cadbf52730e5"/>
+</archimate:AssociationRelationship>

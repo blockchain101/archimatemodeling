@@ -1,0 +1,8 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="合约"
+    id="1ab0cc83-9595-4ab1-ad63-bdac16667fd9">
+  <properties
+      key="Stereotype"
+      value="合约"/>
+</archimate:Contract>

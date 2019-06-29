@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="最好一个流程服务多个事件"
+    id="91d7b5a4-6a5d-48c6-9985-8228baed3bc2">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_eb14b2ef-db29-4b92-93bd-472cc5d80e24.xml#eb14b2ef-db29-4b92-93bd-472cc5d80e24"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_468f14e4-833b-4a9d-9e08-2e428185b72a.xml#468f14e4-833b-4a9d-9e08-2e428185b72a"/>
+</archimate:ServingRelationship>

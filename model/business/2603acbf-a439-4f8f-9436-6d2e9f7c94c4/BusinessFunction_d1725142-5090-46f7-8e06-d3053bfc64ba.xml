@@ -1,0 +1,8 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="业务领域 (存款)"
+    id="d1725142-5090-46f7-8e06-d3053bfc64ba">
+  <properties
+      key="Stereotype"
+      value="业务领域"/>
+</archimate:BusinessFunction>

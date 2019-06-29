@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="结束"
+    id="79628734-f279-4473-8ec8-d6ee97c02c21">
+  <properties
+      key="Stereotype"
+      value="步骤"/>
+</archimate:BusinessProcess>

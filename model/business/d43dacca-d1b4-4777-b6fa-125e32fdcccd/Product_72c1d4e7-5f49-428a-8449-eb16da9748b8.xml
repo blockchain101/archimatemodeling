@@ -1,0 +1,8 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="产品"
+    id="72c1d4e7-5f49-428a-8449-eb16da9748b8">
+  <properties
+      key="Stereotype"
+      value="产品"/>
+</archimate:Product>

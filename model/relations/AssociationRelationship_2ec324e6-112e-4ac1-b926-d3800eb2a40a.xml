@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1对1识别"
+    id="2ec324e6-112e-4ac1-b926-d3800eb2a40a">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_303195a9-0fe5-4c7f-be5f-4abb44eb97d7.xml#303195a9-0fe5-4c7f-be5f-4abb44eb97d7"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f777a341-376c-47f6-8056-ccc67431b69c.xml#f777a341-376c-47f6-8056-ccc67431b69c"/>
+</archimate:AssociationRelationship>

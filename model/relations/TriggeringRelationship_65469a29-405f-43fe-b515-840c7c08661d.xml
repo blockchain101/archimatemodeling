@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="是"
+    id="65469a29-405f-43fe-b515-840c7c08661d">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_80c7b5f8-2b75-46b9-8722-560572e751f9.xml#80c7b5f8-2b75-46b9-8722-560572e751f9"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_a2c570d9-e8c8-4577-a97d-c58be1c6c839.xml#a2c570d9-e8c8-4577-a97d-c58be1c6c839"/>
+</archimate:TriggeringRelationship>

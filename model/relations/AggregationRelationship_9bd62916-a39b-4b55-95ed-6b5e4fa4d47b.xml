@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="基于价值链分解出多个业务活动"
+    id="9bd62916-a39b-4b55-95ed-6b5e4fa4d47b">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_812862de-2122-46cd-b682-b7ff10f5ca69.xml#812862de-2122-46cd-b682-b7ff10f5ca69"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_58515e50-528d-46c0-ad91-00b5ae967d9d.xml#58515e50-528d-46c0-ad91-00b5ae967d9d"/>
+</archimate:AggregationRelationship>

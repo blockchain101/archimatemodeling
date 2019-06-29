@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="业务实体"
+    id="f4896eea-1300-416f-a4ee-be11e9c96e4c">
+  <properties
+      key="Stereotype"
+      value="业务实体"/>
+</archimate:BusinessObject>

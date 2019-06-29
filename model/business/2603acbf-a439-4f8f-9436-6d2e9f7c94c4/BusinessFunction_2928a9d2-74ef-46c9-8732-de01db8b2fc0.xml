@@ -1,0 +1,8 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="业务组件 (copy)"
+    id="2928a9d2-74ef-46c9-8732-de01db8b2fc0">
+  <properties
+      key="Stereotype"
+      value="业务组件"/>
+</archimate:BusinessFunction>

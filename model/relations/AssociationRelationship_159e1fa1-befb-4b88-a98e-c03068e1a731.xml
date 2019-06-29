@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="分析得到业务KPI"
+    id="159e1fa1-befb-4b88-a98e-c03068e1a731">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_468f14e4-833b-4a9d-9e08-2e428185b72a.xml#468f14e4-833b-4a9d-9e08-2e428185b72a"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_9c67c492-36b8-48d8-9afc-ab1dcc4836ec.xml#9c67c492-36b8-48d8-9afc-ab1dcc4836ec"/>
+</archimate:AssociationRelationship>

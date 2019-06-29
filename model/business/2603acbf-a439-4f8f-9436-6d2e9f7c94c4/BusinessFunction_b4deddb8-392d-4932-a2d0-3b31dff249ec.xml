@@ -1,0 +1,8 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="任务 (审批客户开户申请)"
+    id="b4deddb8-392d-4932-a2d0-3b31dff249ec">
+  <properties
+      key="Stereotype"
+      value="任务"/>
+</archimate:BusinessFunction>

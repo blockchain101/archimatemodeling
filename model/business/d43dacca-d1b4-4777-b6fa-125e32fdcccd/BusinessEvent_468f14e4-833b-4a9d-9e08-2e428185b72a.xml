@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="业务事件"
+    id="468f14e4-833b-4a9d-9e08-2e428185b72a">
+  <properties
+      key="Stereotype"
+      value="业务事件"/>
+</archimate:BusinessEvent>

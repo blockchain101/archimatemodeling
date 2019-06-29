@@ -1,0 +1,8 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="任务 (配发介质)"
+    id="a4f06144-7146-4a18-aa5a-21e54160cf87">
+  <properties
+      key="Stereotype"
+      value="任务"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,8 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="业务KPI"
+    id="9c67c492-36b8-48d8-9afc-ab1dcc4836ec">
+  <properties
+      key="Stereotype"
+      value="业务KPI"/>
+</archimate:Contract>

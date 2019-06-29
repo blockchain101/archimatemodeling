@@ -1,0 +1,8 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="任务 (收缴假币)"
+    id="d1a61131-fb0e-4eb1-9e4c-92f602f3efb1">
+  <properties
+      key="Stereotype"
+      value="任务"/>
+</archimate:BusinessFunction>

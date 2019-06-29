@@ -1,0 +1,8 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="任务 (识别个人客户)"
+    id="2dcd3ec8-d2c5-4cd4-9ed2-37bd553ae31d">
+  <properties
+      key="Stereotype"
+      value="任务"/>
+</archimate:BusinessFunction>

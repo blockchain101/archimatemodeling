@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="是否签订服务协议"
+    id="862fe989-c26c-4d34-a6b1-52b2bbf06161">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_93cb2d97-8d19-409e-a9e2-93991ea206a2.xml#93cb2d97-8d19-409e-a9e2-93991ea206a2"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_80c7b5f8-2b75-46b9-8722-560572e751f9.xml#80c7b5f8-2b75-46b9-8722-560572e751f9"/>
+</archimate:TriggeringRelationship>

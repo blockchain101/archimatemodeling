@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="按领域聚合成"
+    id="502066e3-d241-4eed-a173-f52a2d91ab92">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_b8c2aec2-1cfb-430e-9e20-ce3aa1a76d2a.xml#b8c2aec2-1cfb-430e-9e20-ce3aa1a76d2a"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_6294f877-b16f-442e-870c-cc297a184cc3.xml#6294f877-b16f-442e-870c-cc297a184cc3"/>
+</archimate:CompositionRelationship>

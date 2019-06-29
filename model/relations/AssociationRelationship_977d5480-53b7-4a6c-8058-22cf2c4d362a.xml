@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="聚合业务对象的1..*处理规则"
+    id="977d5480-53b7-4a6c-8058-22cf2c4d362a">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_bd26835a-a120-4ce1-b903-b305681d5be3.xml#bd26835a-a120-4ce1-b903-b305681d5be3"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_f777a341-376c-47f6-8056-ccc67431b69c.xml#f777a341-376c-47f6-8056-ccc67431b69c"/>
+</archimate:AssociationRelationship>

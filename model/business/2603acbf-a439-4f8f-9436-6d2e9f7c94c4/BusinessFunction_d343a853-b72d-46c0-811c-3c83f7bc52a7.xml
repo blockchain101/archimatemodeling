@@ -1,0 +1,8 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="任务 (存入资金)"
+    id="d343a853-b72d-46c0-811c-3c83f7bc52a7">
+  <properties
+      key="Stereotype"
+      value="任务"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="c->c' 去范式"
+    id="ef23d484-1ff0-4712-a49e-1f1a37a86b83">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_bd26835a-a120-4ce1-b903-b305681d5be3.xml#bd26835a-a120-4ce1-b903-b305681d5be3"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_b8e6e79f-4e2a-4739-8b81-87bed3e25178.xml#b8e6e79f-4e2a-4739-8b81-87bed3e25178"/>
+</archimate:AssociationRelationship>

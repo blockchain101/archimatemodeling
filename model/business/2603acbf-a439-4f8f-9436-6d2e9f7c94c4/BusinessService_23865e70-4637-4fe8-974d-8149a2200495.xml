@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="交易服务API (copy)"
+    id="23865e70-4637-4fe8-974d-8149a2200495">
+  <properties
+      key="Stereotype"
+      value="交易服务API"/>
+</archimate:BusinessService>

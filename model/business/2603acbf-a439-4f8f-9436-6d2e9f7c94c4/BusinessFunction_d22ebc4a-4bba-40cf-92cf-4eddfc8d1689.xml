@@ -1,0 +1,8 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="任务 (确认客户签字结果)"
+    id="d22ebc4a-4bba-40cf-92cf-4eddfc8d1689">
+  <properties
+      key="Stereotype"
+      value="任务"/>
+</archimate:BusinessFunction>

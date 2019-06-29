@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="同一角色执行的任务"
+    id="c884a4ee-545e-4fcb-8f46-150a99d84a16">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_130f091a-62bc-4a33-8c5a-1da002f9697c.xml#130f091a-62bc-4a33-8c5a-1da002f9697c"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_6294f877-b16f-442e-870c-cc297a184cc3.xml#6294f877-b16f-442e-870c-cc297a184cc3"/>
+</archimate:AggregationRelationship>

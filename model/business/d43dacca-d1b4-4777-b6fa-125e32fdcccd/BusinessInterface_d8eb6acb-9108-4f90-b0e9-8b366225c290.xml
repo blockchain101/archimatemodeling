@@ -1,0 +1,8 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="渠道"
+    id="d8eb6acb-9108-4f90-b0e9-8b366225c290">
+  <properties
+      key="Stereotype"
+      value="渠道"/>
+</archimate:BusinessInterface>

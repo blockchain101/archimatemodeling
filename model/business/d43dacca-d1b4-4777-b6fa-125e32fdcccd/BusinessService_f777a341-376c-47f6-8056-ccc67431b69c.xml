@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="业务对象服务"
+    id="f777a341-376c-47f6-8056-ccc67431b69c">
+  <properties
+      key="Stereotype"
+      value="业务对象服务"/>
+</archimate:BusinessService>

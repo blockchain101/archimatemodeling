@@ -1,0 +1,8 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="业务领域"
+    id="812862de-2122-46cd-b682-b7ff10f5ca69">
+  <properties
+      key="Stereotype"
+      value="业务领域"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="一组稳定的有SLA的合约"
+    id="f554700b-9a7e-4559-b96b-1cf3e9dc4174">
+  <source
+      xsi:type="archimate:Product"
+      href="Product_72c1d4e7-5f49-428a-8449-eb16da9748b8.xml#72c1d4e7-5f49-428a-8449-eb16da9748b8"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_1ab0cc83-9595-4ab1-ad63-bdac16667fd9.xml#1ab0cc83-9595-4ab1-ad63-bdac16667fd9"/>
+</archimate:AggregationRelationship>

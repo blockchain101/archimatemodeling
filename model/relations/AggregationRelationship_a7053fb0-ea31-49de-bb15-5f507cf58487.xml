@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="一组稳定的业务服务构成"
+    id="a7053fb0-ea31-49de-bb15-5f507cf58487">
+  <source
+      xsi:type="archimate:Product"
+      href="Product_72c1d4e7-5f49-428a-8449-eb16da9748b8.xml#72c1d4e7-5f49-428a-8449-eb16da9748b8"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_8218bef4-beaf-47f8-b82f-23d21f063eee.xml#8218bef4-beaf-47f8-b82f-23d21f063eee"/>
+</archimate:AggregationRelationship>

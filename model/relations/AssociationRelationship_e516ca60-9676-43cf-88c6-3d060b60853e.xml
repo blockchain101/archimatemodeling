@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="管理的核心实体不超过3个"
+    id="e516ca60-9676-43cf-88c6-3d060b60853e">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_b8c2aec2-1cfb-430e-9e20-ce3aa1a76d2a.xml#b8c2aec2-1cfb-430e-9e20-ce3aa1a76d2a"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_bd26835a-a120-4ce1-b903-b305681d5be3.xml#bd26835a-a120-4ce1-b903-b305681d5be3"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="是否配发介质"
+    id="f6a45100-b096-4b30-8894-9b4fd3e1e24b">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_5b393463-0a19-4b1d-83ee-d6bb8d04e675.xml#5b393463-0a19-4b1d-83ee-d6bb8d04e675"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_9a3aeb41-3a25-4110-bef8-83b9587f8db4.xml#9a3aeb41-3a25-4110-bef8-83b9587f8db4"/>
+</archimate:TriggeringRelationship>

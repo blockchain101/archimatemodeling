@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="是否发现假币"
+    id="9e5ba355-10bb-4e02-bc5b-7354234ae9c4">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_574a5a05-cce0-48e2-8bcd-8fcd597c369f.xml#574a5a05-cce0-48e2-8bcd-8fcd597c369f"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_32652bbc-4d6c-4aae-8490-e2765fc1f1fd.xml#32652bbc-4d6c-4aae-8490-e2765fc1f1fd"/>
+</archimate:TriggeringRelationship>

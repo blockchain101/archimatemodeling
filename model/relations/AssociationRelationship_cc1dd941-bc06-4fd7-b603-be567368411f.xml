@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="分解成"
+    id="cc1dd941-bc06-4fd7-b603-be567368411f">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_58515e50-528d-46c0-ad91-00b5ae967d9d.xml#58515e50-528d-46c0-ad91-00b5ae967d9d"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_eb14b2ef-db29-4b92-93bd-472cc5d80e24.xml#eb14b2ef-db29-4b92-93bd-472cc5d80e24"/>
+</archimate:AssociationRelationship>

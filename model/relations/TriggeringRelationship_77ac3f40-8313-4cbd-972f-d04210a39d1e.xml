@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="是否需要审批"
+    id="77ac3f40-8313-4cbd-972f-d04210a39d1e">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_2d3256d6-6a63-4b89-beb7-dc6a32336a40.xml#2d3256d6-6a63-4b89-beb7-dc6a32336a40"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_cd178b4a-171f-49a6-9a38-0950ac370241.xml#cd178b4a-171f-49a6-9a38-0950ac370241"/>
+</archimate:TriggeringRelationship>

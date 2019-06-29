@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="步骤"
+    id="303195a9-0fe5-4c7f-be5f-4abb44eb97d7">
+  <properties
+      key="Stereotype"
+      value="步骤"/>
+</archimate:BusinessProcess>
