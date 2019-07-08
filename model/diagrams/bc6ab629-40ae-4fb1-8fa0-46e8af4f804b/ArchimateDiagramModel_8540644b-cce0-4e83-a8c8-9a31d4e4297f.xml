@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3级活动工作流（挂失）"
+    id="8540644b-cce0-4e83-a8c8-9a31d4e4297f">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="f95be8d1-aa9a-4a10-a1b4-b87dafbb468d">
+    <bounds
+        x="264"
+        y="84"
+        width="1045"
+        height="505"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_797dcaa4-b8da-4f36-ab99-3c993d3d2d46.xml#797dcaa4-b8da-4f36-ab99-3c993d3d2d46"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,8 +1,8 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="业务活动 (关户)"
+    name="3级活动 (关户)"
     id="8c575fa0-95fd-4667-b92f-6b985f0ef673">
   <properties
       key="Stereotype"
-      value="业务活动"/>
+      value="3级活动"/>
 </archimate:BusinessFunction>

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="4级流程模型（开户）"
+    name="3级活动工作流（开户）"
     id="740789d8-fa02-4504-9a1f-f7c0c99473c5">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generated View for 3级活动 (关户)"
+    id="b4f83308-f651-496e-832d-61446b9dbdfb">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="0c7cf140-0401-4390-96de-b7d38bf1f604"
+      targetConnections="e0990dba-0321-4aaf-bb18-3f0badea0375">
+    <bounds
+        x="20"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_8c575fa0-95fd-4667-b92f-6b985f0ef673.xml#8c575fa0-95fd-4667-b92f-6b985f0ef673"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="ca99f61a-dc89-4b2d-a2b5-8b39c110d769">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="e0990dba-0321-4aaf-bb18-3f0badea0375"
+        source="ca99f61a-dc89-4b2d-a2b5-8b39c110d769"
+        target="0c7cf140-0401-4390-96de-b7d38bf1f604">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_c78bd755-ba95-414e-995d-c7a40d337bcb.xml#c78bd755-ba95-414e-995d-c7a40d337bcb"/>
+    </sourceConnections>
+    <bounds
+        x="170"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_d1725142-5090-46f7-8e06-d3053bfc64ba.xml#d1725142-5090-46f7-8e06-d3053bfc64ba"/>
+  </children>
+</archimate:ArchimateDiagramModel>

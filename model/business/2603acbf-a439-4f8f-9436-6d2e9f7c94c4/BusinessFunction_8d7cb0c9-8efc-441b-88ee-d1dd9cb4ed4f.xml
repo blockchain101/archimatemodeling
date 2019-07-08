@@ -1,8 +1,8 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="4级业务流程 (copy)"
+    name="3级活动工作流 (copy)"
     id="8d7cb0c9-8efc-441b-88ee-d1dd9cb4ed4f">
   <properties
       key="Stereotype"
-      value="4级业务流程"/>
+      value="3级活动工作流"/>
 </archimate:BusinessFunction>
